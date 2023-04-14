@@ -1,0 +1,9 @@
+<?php
+
+namespace RealDriss\{Module}\Repositories\Interfaces;
+
+use RealDriss\Support\Repositories\Interfaces\RepositoryInterface;
+
+interface {Name}Interface extends RepositoryInterface
+{
+}

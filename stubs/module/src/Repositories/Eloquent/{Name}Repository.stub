@@ -1,0 +1,10 @@
+<?php
+
+namespace RealDriss\{Module}\Repositories\Eloquent;
+
+use RealDriss\Support\Repositories\Eloquent\RepositoriesAbstract;
+use RealDriss\{Module}\Repositories\Interfaces\{Name}Interface;
+
+class {Name}Repository extends RepositoriesAbstract implements {Name}Interface
+{
+}
